@@ -1,0 +1,26 @@
+{
+  "name": "Synaps.Bootstrap",
+  "rootNamespace": "Synaps.Bootstrap",
+  "references": [
+    "Synaps.Core",
+    "Synaps.Search",
+    "Synaps.KnowledgeGraph",
+    "Synaps.AI",
+    "Synaps.Input",
+    "Synaps.Input.Desktop",
+    "Synaps.Data",
+    "Synaps.Data.Unity",
+    "Synaps.UI",
+    "UnityEngine.UI",
+    "Unity.InputSystem"
+  ],
+  "includePlatforms": [],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false,
+  "overrideReferences": false,
+  "precompiledReferences": [],
+  "autoReferenced": false,
+  "defineConstraints": [],
+  "versionDefines": [],
+  "noEngineReferences": false
+}

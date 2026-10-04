@@ -1,0 +1,16 @@
+{
+  "name": "Synaps.AI",
+  "rootNamespace": "Synaps.AI",
+  "references": [
+    "Synaps.Core"
+  ],
+  "includePlatforms": [],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false,
+  "overrideReferences": false,
+  "precompiledReferences": [],
+  "autoReferenced": false,
+  "defineConstraints": [],
+  "versionDefines": [],
+  "noEngineReferences": true
+}

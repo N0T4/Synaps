@@ -1,0 +1,17 @@
+{
+  "name": "Synaps.Data.Unity",
+  "rootNamespace": "Synaps.Data.Unity",
+  "references": [
+    "Synaps.Core",
+    "Synaps.Data"
+  ],
+  "includePlatforms": [],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false,
+  "overrideReferences": false,
+  "precompiledReferences": [],
+  "autoReferenced": false,
+  "defineConstraints": [],
+  "versionDefines": [],
+  "noEngineReferences": false
+}

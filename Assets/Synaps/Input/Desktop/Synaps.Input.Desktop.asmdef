@@ -1,0 +1,19 @@
+{
+  "name": "Synaps.Input.Desktop",
+  "rootNamespace": "Synaps.Input.Desktop",
+  "references": [
+    "Synaps.Core",
+    "Synaps.Input",
+    "UnityEngine.UI",
+    "Unity.InputSystem"
+  ],
+  "includePlatforms": [],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false,
+  "overrideReferences": false,
+  "precompiledReferences": [],
+  "autoReferenced": false,
+  "defineConstraints": [],
+  "versionDefines": [],
+  "noEngineReferences": false
+}

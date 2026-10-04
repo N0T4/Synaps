@@ -1,0 +1,19 @@
+{
+  "name": "Synaps.UI",
+  "rootNamespace": "Synaps.UI",
+  "references": [
+    "Synaps.Core",
+    "Synaps.Search",
+    "Synaps.KnowledgeGraph",
+    "UnityEngine.UI"
+  ],
+  "includePlatforms": [],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false,
+  "overrideReferences": false,
+  "precompiledReferences": [],
+  "autoReferenced": false,
+  "defineConstraints": [],
+  "versionDefines": [],
+  "noEngineReferences": false
+}

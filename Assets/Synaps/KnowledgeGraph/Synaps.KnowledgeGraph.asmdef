@@ -1,0 +1,16 @@
+{
+  "name": "Synaps.KnowledgeGraph",
+  "rootNamespace": "Synaps.KnowledgeGraph",
+  "references": [
+    "Synaps.Core"
+  ],
+  "includePlatforms": [],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false,
+  "overrideReferences": false,
+  "precompiledReferences": [],
+  "autoReferenced": false,
+  "defineConstraints": [],
+  "versionDefines": [],
+  "noEngineReferences": true
+}

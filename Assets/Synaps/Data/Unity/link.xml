@@ -1,0 +1,6 @@
+<linker>
+  <assembly fullname="Synaps.Core" preserve="all" />
+  <assembly fullname="Synaps.Data.Unity">
+    <type fullname="Synaps.Data.Unity.UnityJsonGraphSerializer+Envelope" preserve="all" />
+  </assembly>
+</linker>
